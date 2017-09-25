@@ -1,0 +1,66 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/kun/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/release/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"cpp_info-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cpp_info",
+			"buildCommand" : "/Users/kun/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/release/armeabi-v7a --target cpp_info",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/kun/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/kun/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-arm  -Dcpp_info_EXPORTS -isystem /Users/kun/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/kun/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /Users/kun/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Os -DNDEBUG -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/src/main/cpp/LogHelper.cpp",
+					"workingDirectory" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/kun/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/kun/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-arm  -Dcpp_info_EXPORTS -isystem /Users/kun/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/kun/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /Users/kun/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Os -DNDEBUG -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/src/main/cpp/Info.cpp",
+					"workingDirectory" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/build/intermediates/cmake/release/obj/armeabi-v7a/libcpp_info.so",
+			"toolchain" : "4237990428542672685"
+		},
+		"hello-jnicallback-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "hello-jnicallback",
+			"buildCommand" : "/Users/kun/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/release/armeabi-v7a --target hello-jnicallback",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/kun/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/kun/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-arm -Dhello_jnicallback_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/src/main/cpp/hello-jnicallback.c",
+					"workingDirectory" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/build/intermediates/cmake/release/obj/armeabi-v7a/libhello-jnicallback.so",
+			"toolchain" : "4237990428542672685"
+		}
+	},
+	"toolchains" : 
+	{
+		"4237990428542672685" : 
+		{
+			"cCompilerExecutable" : "/Users/kun/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/kun/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

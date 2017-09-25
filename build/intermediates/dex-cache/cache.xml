@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kun/.android/build-cache/258c9edc3dd7694be6da98a535f5bc6d62e96215/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/kun/code/android/ndk/android-ndk/hello-jniCallback/app/build/intermediates/pre-dexed/debug/classes_191dd967516378696cd876ff8d90c64a7b32de39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kun/.android/build-cache/3f64b2f1387441357d4eafd15db8ab0d1cac8a1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/kun/code/android/ndk/android-ndk/hello-jniCallback/app/build/intermediates/pre-dexed/debug/classes_081677b2b8c52e58b0a8e0bbbafac732543e5bf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kun/.android/build-cache/4f4747ec202ccdb7372b89c7827fcd751c1b34a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/kun/code/android/ndk/android-ndk/hello-jniCallback/app/build/intermediates/pre-dexed/debug/classes_a004b8c43a1e85bc1548f6b0607afe96ec6a4dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kun/.android/build-cache/88ec8afe6e25d43f2c6a72d3da654ac49e3b168d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/kun/code/android/ndk/android-ndk/hello-jniCallback/app/build/intermediates/pre-dexed/debug/classes_5ab7d414c67bb597900b6c3e850fa1d2e15ab44a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kun/.android/build-cache/ba7c020d93a12679aba5abf8c163809c2bfd19d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kun/code/android/ndk/android-ndk/hello-jniCallback/app/build/intermediates/pre-dexed/debug/classes_1bdb0a3938bb7dce13634a16a7286d1c5eb7d9d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kun/.android/build-cache/ccb150f7af709521256d5fae31e649c325f3b182/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/kun/code/android/ndk/android-ndk/hello-jniCallback/app/build/intermediates/pre-dexed/debug/classes_debf623ebc83458df3c3dbf474d02e2ac869990a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kun/.android/build-cache/71aa3f82637d69963e6eee02fbb15310b0de25d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/kun/code/android/ndk/android-ndk/hello-jniCallback/app/build/intermediates/pre-dexed/debug/classes_c5ede827b19b05435c27a81111e359bde0b558e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kun/.android/build-cache/4fc0e2d7cae78ba44acfb6a138104cfe8681721f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/kun/code/android/ndk/android-ndk/hello-jniCallback/app/build/intermediates/pre-dexed/debug/classes_67a4d9f4ab0e868d46d7a18fd30eab7e13dcc63f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kun/.android/build-cache/67ce832c55877edc52b9d54c709ba9ec9b9d1584/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/kun/code/android/ndk/android-ndk/hello-jniCallback/app/build/intermediates/pre-dexed/debug/classes_079b3032a1492f9c04de8f791894c5632062d16b.jar" />
+    </item>
+
+</items>

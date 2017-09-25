@@ -1,0 +1,4 @@
+/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/cpp_info.dir
+/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/hello-jnicallback.dir

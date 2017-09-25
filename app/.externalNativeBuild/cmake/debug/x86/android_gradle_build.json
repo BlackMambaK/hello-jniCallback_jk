@@ -1,0 +1,66 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/kun/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/debug/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"cpp_info-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "cpp_info",
+			"buildCommand" : "/Users/kun/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/debug/x86 --target cpp_info",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/kun/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/kun/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-x86  -Dcpp_info_EXPORTS -isystem /Users/kun/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/kun/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/kun/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/src/main/cpp/LogHelper.cpp",
+					"workingDirectory" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/kun/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/kun/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-x86  -Dcpp_info_EXPORTS -isystem /Users/kun/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/kun/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/kun/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/src/main/cpp/Info.cpp",
+					"workingDirectory" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/build/intermediates/cmake/debug/obj/x86/libcpp_info.so",
+			"toolchain" : "4237990428542672685"
+		},
+		"hello-jnicallback-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "hello-jnicallback",
+			"buildCommand" : "/Users/kun/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/debug/x86 --target hello-jnicallback",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/kun/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/kun/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-x86 -Dhello_jnicallback_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/src/main/cpp/hello-jnicallback.c",
+					"workingDirectory" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "/Users/kun/code/android/ndk/android-ndk-samples/hello-jniCallback_jk/app/build/intermediates/cmake/debug/obj/x86/libhello-jnicallback.so",
+			"toolchain" : "4237990428542672685"
+		}
+	},
+	"toolchains" : 
+	{
+		"4237990428542672685" : 
+		{
+			"cCompilerExecutable" : "/Users/kun/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/kun/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
